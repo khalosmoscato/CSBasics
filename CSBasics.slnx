@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="VariableExercise/VariableExercise.csproj" />
+  <Project Path="VariableExerciseLogic/VariableExerciseLogic.csproj" />
+</Solution>
