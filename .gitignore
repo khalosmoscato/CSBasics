@@ -1,0 +1,16 @@
+# Create the file and add the essential patterns
+@"
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
+"@ | Out-File -Encoding utf8 .gitignore
